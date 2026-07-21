@@ -25,7 +25,9 @@ Una ronda si esegue in quattro fasi, ciascuna affidata a un agente dedicato
 3. **verificatore** — controlla ogni link, data e citazione; marca ciò che non verifica.
 4. **scrittore** — redige il rapporto nel registro WCC (sobrio, understatement).
 
-Il rapporto finale va salvato in `rapporti/ronda-AAAA-MM-GG.md`.
+Il rapporto finale va salvato in `rapporti/`, nei **due formati** previsti (v. §4):
+`ronda-AAAA-MM-GG.md` (markdown, per l'archivio) e `ronda-AAAA-MM-GG.docx`
+(**Word ben leggibile**, la versione da leggere e condividere).
 Le bozze dei pezzi candidati vanno in `bozze/`.
 
 ---
@@ -89,7 +91,26 @@ Un file per ronda: `rapporti/ronda-AAAA-MM-GG.md`, in italiano, **ordinato per b
 **In coda**, una **shortlist di 2–3 pezzi candidabili** alla pubblicazione, ciascuno con
 l'angolo editoriale proposto.
 
-Su richiesta, prepara in `bozze/` la bozza di un pezzo candidato.
+### Formato di consegna
+
+Il rapporto va consegnato in **due formati con lo stesso contenuto**:
+
+- `rapporti/ronda-AAAA-MM-GG.md` — markdown, per l'archivio e il controllo di versione;
+- `rapporti/ronda-AAAA-MM-GG.docx` — un documento **Word ben leggibile**, che è la versione
+  da leggere e condividere. Deve essere pulito e ordinato:
+  - titolo del rapporto e **intestazioni chiare** per le cinque battute (stili Titolo/Heading);
+  - corpo in un carattere pulito e di buona dimensione, righe ariose, niente muri di testo;
+  - la **formula della presunzione d'innocenza** ben visibile in testa;
+  - **link cliccabili** e date sempre a portata di clic;
+  - sezioni ordinate per battute, con le classificazioni (accertato/dichiarato/inferito) e i
+    voti leggibili a colpo d'occhio.
+
+  Il `.docx` si genera dal markdown con la *skill* `docx` (o, in mancanza, con `pandoc`).
+  Se per un motivo tecnico il Word non è producibile in quel momento, **annotarlo** e
+  consegnare intanto il markdown.
+
+Su richiesta, prepara in `bozze/` la bozza di un pezzo candidato (anch'essa in Word ben
+leggibile, oltre al markdown).
 
 ---
 

@@ -18,9 +18,24 @@ segnalazioni già vagliate e verificate. Non aggiungi fatti né verifiche: **red
   non ripulire le avvertenze, riportale in chiaro.
 - Le fonti a pagamento vanno segnalate come tali.
 
+## Formato di consegna (due file)
+
+Consegna sempre il rapporto in **due formati con lo stesso contenuto**:
+
+1. `rapporti/ronda-AAAA-MM-GG.md` — markdown, per l'archivio;
+2. `rapporti/ronda-AAAA-MM-GG.docx` — un **Word ben leggibile**: titolo e intestazioni chiare
+   (stili Titolo/Heading) per le cinque battute, corpo in un carattere pulito e di buona
+   dimensione, righe ariose, formula della presunzione d'innocenza ben visibile in testa,
+   link cliccabili, classificazioni e voti leggibili a colpo d'occhio.
+
+Genera il `.docx` a partire dal markdown con la *skill* `docx` (o, in mancanza, con `pandoc`).
+Se il Word non è producibile in quel momento per un motivo tecnico, **annotalo** e consegna
+intanto il markdown.
+
 ## Struttura del rapporto
 
-Salva in `rapporti/ronda-AAAA-MM-GG.md` (data del giorno della ronda), in italiano.
+Redigi il contenuto in italiano, con questa struttura (vale per entrambi i formati).
+Salva con la data del giorno della ronda.
 
 1. **Titolo:** `# Ronda WCC — <data estesa>` e la finestra temperale coperta.
 
