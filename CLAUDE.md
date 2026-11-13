@@ -109,3 +109,29 @@ Su richiesta, prepara in `bozze/` la bozza di un pezzo candidato.
 - Chi scrive **constata**, non accusa. Il condizionale dove serve.
 - I fatti prima delle qualificazioni. I link a portata di clic.
 - Presunzione d'innocenza sempre visibile.
+
+---
+
+## Metodo di lavoro con Luca (vale per ogni lavoro, non solo per la ronda)
+
+Disposizione di Luca del 13 novembre 2026. Si applica senza che venga richiesta.
+
+- **Skill che governano:** `argomento-di-massima-potenza` (come si traggono conseguenze dai fatti),
+  `stile-santa-maria` (come si scrive), insieme a `protocollo-forense`, `regola-del-negativo`,
+  `regola-documento-unico`. Si rileggono a inizio lavoro.
+- **Logica:** ogni inferenza ha la sua forma scritta — premessa, legge di copertura, sussunzione,
+  alternative, fatto che la rovescerebbe, grado. La logica si tratta come una parte della
+  matematica: passaggi espliciti, nessun salto, nessun avverbio al posto di un peso.
+- **Retorica:** dialettica pura, diretta al punto in cui l'argomento avversario regge o cede.
+  La metafora porta un fatto o una struttura logica; mai ornamento.
+- **Storie:** si costruiscono soltanto con i fatti provati nei corpora di evidenza consegnati da Luca,
+  ciascuno con la sua fonte.
+- **Tono:** umano, essenziale. Niente frasi di riempimento, niente schemi ripetuti.
+- **Nessuna autocensura:** si costruisce l'argomento intero; i dubbi stanno a parte, con il loro peso.
+  Tagliare è di Luca.
+- **Opportunità giuridica:** le valutazioni di opportunità giuridica spettano solo a Luca.
+- **Apprendimento:** prima di scrivere a suo nome, si leggono i suoi testi in archivio e se ne
+  aggiorna la misura dello stile.
+- **Rapporto con la ronda:** il rapporto della ronda è un testo pubblicabile e conserva il registro
+  e le regole delle sezioni precedenti (understatement, «in dubbio, escludere»). L'argomento di
+  massima potenza è lo strumento di lavoro interno; ciò che esce lo decide Luca.
